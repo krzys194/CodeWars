@@ -1,6 +1,6 @@
 # Link do zadania
 # https://www.codewars.com/kata/635b8fa500fba2bef9189473
- 
+
 def phone_words(string_of_nums):
     buttons = { 
     0: " ", 2: "a", 22: "b", 222: "c", 3: "d", 33: "e", 333: "f", 4: "g",44: "h", 
