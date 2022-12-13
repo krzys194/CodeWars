@@ -8,7 +8,7 @@ def phone_words(string_of_nums):
     nrToStr = ""
     string_of_nums = string_of_nums+"-"
     newStr = string_of_nums[i]
-        
+       
     while string_of_nums[i] != "-":
         if newStr == "1":
             newStr = string_of_nums[i+1]
