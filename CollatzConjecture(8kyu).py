@@ -1,6 +1,6 @@
 # link do zadania:
 # https://www.codewars.com/users/Krzys194/completed_solutions
-
+ 
 def hotpo(n):
     i = 0
     while n > 1:
